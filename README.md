@@ -75,9 +75,9 @@ To run this application, you only need **Python 3.x** installed on your system.
 
    ```
    .
-   ├── cli.py
    ├── main.py
    ├── src/
+       ├── cli.py
    │   ├── library_core.py
    │   └── search_module.py (Assumed dependency)
    ├── storage/
